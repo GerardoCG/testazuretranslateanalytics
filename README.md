@@ -5,5 +5,5 @@
 > Service Analytics
 
 
-> Positive Translation
+> <b>Positive Translation</b>
 ![Screenshot](cpos.png) 

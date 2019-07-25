@@ -1,4 +1,4 @@
-# Test Services translate & Analytics in Azure
+# Test Services Text Translate & Text Analytics in Azure
 
 > <b>Positive Translation</b>
 ![Screenshot](cpos.png) 

@@ -1,8 +1,4 @@
-# Test with Azure
-
-> Service translate
-
-> Service Analytics
+# Test Services translate & Analytics in Azure
 
 > <b>Positive Translation</b>
 ![Screenshot](cpos.png) 
